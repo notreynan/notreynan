@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on different projects and assignments for Digital Game
+###🔭 I’m currently working on different projects and assignments for Digital Game
 - 🌱 I’m currently learning how to use Github
 - 🤔 I’m looking for help with understanding Github
 - 📫 How to reach me: @reynanl.363479@nv.ccsd.net
