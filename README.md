@@ -1,6 +1,6 @@
 ### Hello there!
 
-My name is Reynan and I am in Digital Game Development.
+My name is Reynan and I am in Digital Game Development. I would like to improve on learning how to use Github and fully understand it. I hope to make new games and explore different things I'm abl eto do in Github. 
 
 - 🔭 I’m currently working on different projects and assignments for Digital Game
 - 🌱 I’m currently learning how to use Github
